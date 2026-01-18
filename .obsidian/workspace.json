@@ -1,0 +1,303 @@
+{
+  "main": {
+    "id": "bcb3f995c01f5aae",
+    "type": "split",
+    "children": [
+      {
+        "id": "d585081ad379a1f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be22978f57dd11d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "расстояния.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "расстояния"
+            }
+          },
+          {
+            "id": "36ef124ce7805f8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KNN.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "KNN"
+            }
+          },
+          {
+            "id": "1813cd3a8bef1f08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Билеты.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Билеты"
+            }
+          },
+          {
+            "id": "aa8d0e35bac4bdc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Билеты.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Билеты"
+            }
+          },
+          {
+            "id": "48ddaaa46988aeb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled/1 вопрос.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1 вопрос"
+            }
+          },
+          {
+            "id": "f33768c6a6e2ef0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled/3 вопрос.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3 вопрос"
+            }
+          },
+          {
+            "id": "cf1e308ff85af920",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled/9 вопрос.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "9 вопрос"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "24d552ad6e5cd5ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d3be40ca90b226e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "381f50d9b27d2598",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "357e8723f9397f9b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0fb5da535c68bdab",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 265.5
+  },
+  "right": {
+    "id": "750c3a6ff1920c48",
+    "type": "split",
+    "children": [
+      {
+        "id": "71481ab9a9b23865",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5df7889e6cfffe13",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "cc16acdc62e331da",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "9774e8da07b2c16d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4c3224e12b22327b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "dff4f5e0768da5a0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "cf1e308ff85af920",
+  "lastOpenFiles": [
+    "Pasted image 20260118230242.png",
+    "Pasted image 20260118230200.png",
+    "Pasted image 20260118230149.png",
+    "Pasted image 20260118230146.png",
+    "Untitled/8 вопрос.md",
+    "Untitled/9 вопрос.md",
+    "Pasted image 20260118224518.png",
+    "Pasted image 20260118224133.png",
+    "Pasted image 20260118224113.png",
+    "Pasted image 20260118224048.png",
+    "Pasted image 20260118223832.png",
+    "Pasted image 20260118223639.png",
+    "Pasted image 20260118222950.png",
+    "Untitled/1 вопрос.md",
+    "Untitled/3 вопрос.md",
+    "Untitled/2 вопрос.md",
+    "Untitled/7 вопрос.md",
+    "Untitled/6 вопрос.md",
+    "Untitled/5 вопрос.md",
+    "Untitled/4 вопрос.md",
+    "Билеты.md",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "Untitled",
+    "Вопрос ответ.md",
+    "KNN.md",
+    "Untitled.md",
+    "расстояния.md",
+    "Welcome.md"
+  ]
+}
