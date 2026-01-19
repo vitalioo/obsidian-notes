@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled/1 вопрос.md",
+                "file": "Билеты/1 вопрос.md",
                 "mode": "source",
                 "source": false
               },
@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled/3 вопрос.md",
+                "file": "Билеты/3 вопрос.md",
                 "mode": "source",
                 "source": false
               },
@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled/9 вопрос.md",
+                "file": "Билеты/1 вопрос.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9 вопрос"
+              "title": "1 вопрос"
             }
           }
         ],
@@ -268,32 +268,32 @@
       "bases:Create new base": false
     }
   },
-  "active": "cf1e308ff85af920",
+  "active": "381f50d9b27d2598",
   "lastOpenFiles": [
+    "Билеты/9 вопрос.md",
+    "Билеты/10 вопрос.md",
+    "Pasted image 20260119141709.png",
+    "Pasted image 20260119141455.png",
+    "Pasted image 20260119141418.png",
+    "Pasted image 20260119141220.png",
+    "Pasted image 20260119141150.png",
+    "Pasted image 20260119141148.png",
     "Pasted image 20260118230242.png",
     "Pasted image 20260118230200.png",
     "Pasted image 20260118230149.png",
     "Pasted image 20260118230146.png",
-    "Untitled/8 вопрос.md",
-    "Untitled/9 вопрос.md",
-    "Pasted image 20260118224518.png",
-    "Pasted image 20260118224133.png",
-    "Pasted image 20260118224113.png",
-    "Pasted image 20260118224048.png",
-    "Pasted image 20260118223832.png",
-    "Pasted image 20260118223639.png",
-    "Pasted image 20260118222950.png",
-    "Untitled/1 вопрос.md",
-    "Untitled/3 вопрос.md",
-    "Untitled/2 вопрос.md",
-    "Untitled/7 вопрос.md",
-    "Untitled/6 вопрос.md",
-    "Untitled/5 вопрос.md",
-    "Untitled/4 вопрос.md",
+    "Билеты/8 вопрос.md",
+    "Билеты/1 вопрос.md",
+    "Билеты/3 вопрос.md",
+    "Билеты/2 вопрос.md",
+    "Билеты/7 вопрос.md",
+    "Билеты/6 вопрос.md",
+    "Билеты/5 вопрос.md",
+    "Билеты/4 вопрос.md",
     "Билеты.md",
     "Untitled 3.md",
     "Untitled 2.md",
-    "Untitled",
+    "Билеты",
     "Вопрос ответ.md",
     "KNN.md",
     "Untitled.md",
